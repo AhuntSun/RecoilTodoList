@@ -227,7 +227,7 @@ function TodoList() {
         <TodoListStats />
       </div>
       <footer class="">
-        Made with 3 by <a href="https://www.nourabusoud.com/">Nour Soud</a>
+        Made with React by Ahuntsun
         View on <a href="https://github.com/AhuntSun/RecoilTodoList">Github</a>
       </footer>
     </div>
