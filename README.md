@@ -2,9 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Preview
+![image](https://github.com/AhuntSun/RecoilTodoList/assets/56874503/34326124-8e98-4b7d-8cf5-26ad3fd2bb58)
+![image](https://github.com/AhuntSun/RecoilTodoList/assets/56874503/b88c0648-836b-4835-af92-3aa15ad3bf7c)
+![image](https://github.com/AhuntSun/RecoilTodoList/assets/56874503/d8ace9fa-2865-4920-8cf0-9835566ba164)
+![image](https://github.com/AhuntSun/RecoilTodoList/assets/56874503/5d11a40f-655c-403c-b574-5e5b80e6ec43)
+![image](https://github.com/AhuntSun/RecoilTodoList/assets/56874503/73b5d2e5-a595-4974-a539-3c9c24fbe839)
 
 In the project directory, you can run:
+
+### `npm install`
 
 ### `npm start`
 
